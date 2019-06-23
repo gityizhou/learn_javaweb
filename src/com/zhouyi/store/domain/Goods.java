@@ -29,7 +29,7 @@ public class Goods {
     private String image;
 
     // 双向关联
-   // private List<Orderlineitem> irderLineItems;
+   // private List<OrderLineItem> irderLineItems;
 
     public long getId() {
         return id;

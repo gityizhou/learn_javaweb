@@ -1,6 +1,6 @@
 package com.zhouyi.store.domain;
 
-public class Orderlineitem {
+public class OrderLineItem {
     /* 订单详细id */
     private long id;
     /* 数量 */
